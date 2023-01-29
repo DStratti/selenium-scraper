@@ -2,3 +2,4 @@
 *venv/*
 *chromedriver*
 selenium/venv/
+selenium/data/
